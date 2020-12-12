@@ -33,6 +33,10 @@ var highScore = [
   },
   {
     name : "pandey",
+    score : 3
+  },
+  {
+    name : "joshi",
     score : 2
   }
 ]
